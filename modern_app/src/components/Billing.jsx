@@ -9,8 +9,8 @@ const Billing = () => (
         <div className="absolute z-[0] -left-1/2 bottom-0 w-[50%] h-[50%] rounded-full pink__gradient" />
       </div>
       <div className={layout.sectionInfo}>
-        <h2 className={styles.heading2}>Easily control your 
-          <br className="sm:block hidden" />
+        <h2 className={styles.heading2}>
+          Easily control your <br className="sm:block hidden" />
           billing & invoicing.</h2>
           <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos nam praesentium voluptate, itaque facilis odit dignissimos iure debitis quas eaque illo. Officia soluta inventore suscipit alias iure sapiente blanditiis iste?
